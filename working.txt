@@ -1,0 +1,17 @@
+// RULES OF JSX
+// 1. Component naming must follow Pascal Casing
+
+// function Footer(){}
+// <Footer/>
+
+// 2. Props must be Camel Cased
+// <input maxLength={5} readOnly="false" />
+
+// 3. Inline Styling
+// <p style={{ color: "gray", backgroundColor: "black"}}>Happy Coding</p>
+
+// 4. Integer/Bool in props will go in {}, "" will be string
+// <input maxLength = {5} readOnly = {false} placeHolder = "Ben"></input>
+
+// 5. class must be used as className
+
